@@ -32,5 +32,5 @@ client.on("message", async message => {
 
 });
 
-client.login('TOKEN');
+client.login('ODEzNjc2NjM5OTAwNzk0ODky.YDSxbA.UGk58D4Kj8yirMCMvuFpuyci6_Q');
 
