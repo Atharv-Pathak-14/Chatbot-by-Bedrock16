@@ -21,3 +21,4 @@ jobs:
       - run:
           name: starting
           command: node index.js
+          background: true
