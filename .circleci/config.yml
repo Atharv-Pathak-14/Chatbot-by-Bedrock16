@@ -22,3 +22,6 @@ jobs:
           name: starting
           command: node index.js
           background: true
+      - run:
+          name: ok
+          command : npm test
