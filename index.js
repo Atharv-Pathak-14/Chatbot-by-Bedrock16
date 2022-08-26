@@ -14,7 +14,7 @@ client.once("ready", () => {
 
 client.on("message", async message => {
 
-  if (message.channel.id == 'ID') {
+  if (message.channel.id == '872826007269281813') {
 
     if (message.author.bot) return;
 
