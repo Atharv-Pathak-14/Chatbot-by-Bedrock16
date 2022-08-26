@@ -2,8 +2,6 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const TOKEN = process.env.DISCORD_TOKEN;
-
 const ID = process.env.CHANNEL;
 
 const alexa = new require('alexa-bot-api');
@@ -32,5 +30,5 @@ client.on("message", async message => {
 
 });
 
-client.login('TOKEN');
+client.login(process.env['token'])
 
