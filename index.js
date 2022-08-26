@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const ID = process.env.CHANNEL;
+const ID = process.env['CHANNEL'];
 
 const alexa = new require('alexa-bot-api');
 
