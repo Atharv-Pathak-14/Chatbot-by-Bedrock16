@@ -1,0 +1,24 @@
+{
+    "name": "no name",
+    "description": "Anime theme made by Atharv",
+    "authors": [
+        {
+            "name": "Atharv",
+            "id": "1068030255455015013"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#c9c9c9"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#ad2121"
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/903274002708062252/1106115856628457472/test.json",
+    "alpha": 0.68
+  },
+    "spec": 2
+}
